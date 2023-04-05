@@ -2,9 +2,9 @@
 
 <hr>
 
-***Tinkercad Diagram***
+***Circuit Diagram***
 
-![image](https://user-images.githubusercontent.com/107066424/230139683-1a2add51-8c75-42b7-84bb-b72064a65196.png)
+<img src="https://user-images.githubusercontent.com/107066424/230139683-1a2add51-8c75-42b7-84bb-b72064a65196.png" width="650">
 
 <hr>
 
