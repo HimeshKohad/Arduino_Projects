@@ -1,4 +1,4 @@
-### ***Integratng Gas Sensor using Ardino***
+### ***Integrating Gas Sensor using Ardino***
 
 <hr>
 
