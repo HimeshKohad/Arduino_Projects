@@ -1,10 +1,10 @@
-### ***Integrating Gas Sensor using Ardino***
+### ***Integrating Gas Sensor using Arduino***
 
 <hr>
 
 ***Circuit Diagram***
 
-![image](https://user-images.githubusercontent.com/80636388/230439964-15a8d478-56e9-4c4e-b836-bada207fec92.png)
+<img src="https://user-images.githubusercontent.com/80636388/231523319-42024b24-be04-4d36-92fc-9ca0deafd6de.png" width="650">
 
 <hr>
 
