@@ -26,3 +26,4 @@ _You can access the projects below:_
 |3.|PIR Sensor|[🔗 Link : Integrating PIR Sensor with Arduino](https://github.com/HimeshKohad/Arduino_Projects/blob/main/Basics/Integrating%20PIR%20Sensor/PIR%20(Motion%20Sensor).md)|
 |4.|Security System|[🔗 Link : Security System using Ultrasonic Sensors](https://github.com/HimeshKohad/Arduino_Projects/blob/main/Basics/Security%20System%20using%20Ultrasonic%20Sensors/Basic%20-%20Security%20System.md)|
 |5.|Gas Sensor|[🔗 Link : Integrating Gas Sensor with Arduino](https://github.com/HimeshKohad/Arduino_Projects/blob/main/Basics/Integrating%20Gas%20Sensor/Gas%20Sensor.md)|
+|6.|Security System 2|[🔗 Link : Security System using PIR Sensors](https://github.com/HimeshKohad/Arduino_Projects/blob/main/Basics/Security%20System%20using%20PIR%20sensor/Basic%20-%20Security%20System2.md)|
