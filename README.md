@@ -17,6 +17,14 @@ _You can access the projects below:_
 
 <br>
 
+***Explaining Basic Electronic Components***
+
+| Sr. No. | Name | File |
+|------|------|------|
+|1.|LED|[🔗 Link : Working of a LED](https://github.com/HimeshKohad/Arduino_Projects/blob/main/Workings/LED.md)|
+
+<br>
+
 ***Basics***
 
 | Sr. No. | Name | File |
