@@ -3,7 +3,7 @@
 <hr>
 
 LEDs are small, powerful lights that can be found in a variety of applications. 
-To begin, we will practise blinking an LED, which is the Hello World of microcontrollers. It is as simple as turning on and off a light switch. 
+To begin, we will practice blinking an LED, which is the Hello World of microcontrollers. It is as simple as turning on and off a light switch. 
 Establishing this critical baseline will provide you with a solid foundation as we progress to more complex experiments.
 
 ***Components Required:***
