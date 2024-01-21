@@ -24,6 +24,7 @@ _You can access the projects below:_
 |1.|LED|[🔗 Link : Working of a LED](https://github.com/HimeshKohad/Arduino_Projects/blob/main/Workings/LED.md)|
 |2.|Ultrasonic Sensor|[🔗 Link : Working of a Ultrasonic Sensor](https://github.com/HimeshKohad/Arduino_Projects/blob/main/Workings/Ultrasonic%20Sensor.md)|
 |3.|IR Sensor|[🔗 Link : Working of a IR Sensor](https://github.com/HimeshKohad/Arduino_Projects/blob/main/Workings/IR%20Sensor.md)|
+|4.|PIR Sensor|[🔗 Link : Working of a PIR Sensor](https://github.com/HimeshKohad/Arduino_Projects/blob/main/Workings/PIR%20Sensor.md)|
 
 <br>
 
